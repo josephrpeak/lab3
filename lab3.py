@@ -1,3 +1,7 @@
+# Joe Peak
+# CS101L Section 004
+# 9/14/22
+
 print("Welcome to Flarsheim Guesser!\n")
 
 # Variable to break / continue game loop
